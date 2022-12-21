@@ -9,5 +9,11 @@
  */
 
 {
+    "theme/typography": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "fonts-not-found-on-remote/theme/typography"
+    },
     "$schema-version": "14.9.0"
 }

@@ -1,0 +1,22 @@
+{
+  "componentId": {
+    "name": "theme/typography",
+    "scope": "fifi.fonts-not-found-on-remote"
+  },
+  "propagate": false,
+  "extensions": {
+    "teambit.dependencies/dependency-resolver": {
+      "policy": {
+        "dependencies": {
+          "@fontsource/dm-serif-text": "4.5.7",
+          "@fontsource/lato": "4.5.8",
+          "@fontsource/sarabun": "4.5.8"
+        }
+      }
+    },
+    "teambit.envs/envs": {
+      "env": "teambit.react/react"
+    },
+    "teambit.react/react": {}
+  }
+}
