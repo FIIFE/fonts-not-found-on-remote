@@ -10,8 +10,8 @@
 
 {
     "theme/typography": {
-        "scope": "",
-        "version": "",
+        "scope": "fifi.fonts-not-found-on-remote",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "fonts-not-found-on-remote/theme/typography"
     },
